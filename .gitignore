@@ -1,3 +1,14 @@
+#ignore everything
+*
+
+#but not 
+!**/*.gitignore
+!**/*.ipynb
+!**/*.py
+!**/*.yaml
+
+############################
+
 # Ignore generated files
 *.class
 *.jar
